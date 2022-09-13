@@ -1,10 +1,5 @@
 #include"LinkedList.h"
 
-
-
-
-
-
 Node* createNode(int data) {
 
 	// Node struct 만큼의 공간을 갖는 Node 의 주소를 생성
